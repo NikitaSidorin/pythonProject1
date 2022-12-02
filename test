@@ -1,0 +1,12 @@
+# Создание нескольких переменных
+str_var = "Первая переменная"
+int_var = 321
+float_var = 2.24
+list_var = [2, , 'лист']
+dict_var = {1: 'A' 2: 'Б', 3: 'B'}
+
+print(str_var)
+print(int_var)
+print(float_var)
+print(list_var)
+print(dict_var)
